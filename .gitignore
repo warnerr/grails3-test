@@ -26,6 +26,11 @@
 /plugin.xml
 
 # older plugin install locations
+/.asscache
+/out
+/build
+/.gradle
+/.idea
 /plugins
 /web-app/plugins
 
